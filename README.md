@@ -1,5 +1,5 @@
 
-## Juego_ahorcadoJuego_ahorcado
+## Juego_ahorcado
 Esta app es un juego de adivinar palabras en la consola utilizando Node.js y typescript. El jugador debe ingresar una palabra para que otro jugador la adivine. El juego muestra una palabra oculta con espacios en blanco y permite al jugador ingresar letras para adivinar la palabra. El jugador tiene un número limitado de intentos y el juego verifica si la letra ingresada es correcta o incorrecta. El juego continúa hasta que el jugador adivine la palabra o se queden intentos.
 
 Si deseas ejecutar el código TypeScript directamente sin necesidad de transpilarlo manualmente, puedes utilizar la herramienta ts-node. ts-node permite ejecutar archivos TypeScript directamente sin necesidad de transpilación previa.
