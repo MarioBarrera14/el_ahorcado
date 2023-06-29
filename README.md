@@ -10,7 +10,7 @@ Asegúrate de tener ts-node instalado en tu proyecto. Puedes instalarlo localmen
 **npm install --save-dev ts-node**
 
 Una vez que tengas ts-node instalado, puedes ejecutar tu archivo TypeScript app.ts utilizando el siguiente comando:
-*npx ts-node app.ts*
+**npx ts-node app.ts**
 
 Esto ejecutará el archivo app.ts directamente, sin necesidad de transpilarlo previamente. El comando npx se encargará de buscar y utilizar la versión local de ts-node instalada en tu proyecto.
 
